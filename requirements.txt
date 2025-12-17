@@ -1,0 +1,8 @@
+numpy
+gym
+torch
+tqdm
+pandas
+scipy
+seaborn
+matplotlib
